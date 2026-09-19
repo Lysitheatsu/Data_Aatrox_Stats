@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "ELLY Maps",
+    "slug": "elly-maps",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "ellymaps",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ellymaps.app"
+    },
+    "android": {
+      "package": "com.ellymaps.app"
+    },
+    "web": {},
+    "plugins": [
+      "@maplibre/maplibre-react-native"
+    ]
+  }
+}
